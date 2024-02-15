@@ -1,0 +1,14 @@
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\ParallelLabs\SubProcess1\bin\Debug\net6.0\SubProcess1.exe
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\ParallelLabs\SubProcess1\bin\Debug\net6.0\SubProcess1.deps.json
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\ParallelLabs\SubProcess1\bin\Debug\net6.0\SubProcess1.runtimeconfig.json
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\ParallelLabs\SubProcess1\bin\Debug\net6.0\SubProcess1.dll
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\ParallelLabs\SubProcess1\bin\Debug\net6.0\SubProcess1.pdb
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\ParallelLabs\SubProcess1\obj\Debug\net6.0\SubProcess1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\ParallelLabs\SubProcess1\obj\Debug\net6.0\SubProcess1.AssemblyInfoInputs.cache
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\ParallelLabs\SubProcess1\obj\Debug\net6.0\SubProcess1.AssemblyInfo.cs
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\ParallelLabs\SubProcess1\obj\Debug\net6.0\SubProcess1.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\ParallelLabs\SubProcess1\obj\Debug\net6.0\SubProcess1.dll
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\ParallelLabs\SubProcess1\obj\Debug\net6.0\refint\SubProcess1.dll
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\ParallelLabs\SubProcess1\obj\Debug\net6.0\SubProcess1.pdb
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\ParallelLabs\SubProcess1\obj\Debug\net6.0\SubProcess1.genruntimeconfig.cache
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\ParallelLabs\SubProcess1\obj\Debug\net6.0\ref\SubProcess1.dll

@@ -1,0 +1,10 @@
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\ParallelLabs\ParallelLabs\bin\Debug\ParallelLabs.exe.config
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\ParallelLabs\ParallelLabs\bin\Debug\ParallelLabs.exe
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\ParallelLabs\ParallelLabs\bin\Debug\ParallelLabs.pdb
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\ParallelLabs\ParallelLabs\obj\Debug\ParallelLabs.csproj.AssemblyReference.cache
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\ParallelLabs\ParallelLabs\obj\Debug\ParallelLabs.Form1.resources
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\ParallelLabs\ParallelLabs\obj\Debug\ParallelLabs.Properties.Resources.resources
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\ParallelLabs\ParallelLabs\obj\Debug\ParallelLabs.csproj.GenerateResource.cache
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\ParallelLabs\ParallelLabs\obj\Debug\ParallelLabs.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\ParallelLabs\ParallelLabs\obj\Debug\ParallelLabs.exe
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\ParallelLabs\ParallelLabs\obj\Debug\ParallelLabs.pdb
